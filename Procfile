@@ -1,1 +1,1 @@
-web: gunicorn craglistclone.wsgi
+web: gunicorn project.wsgi
